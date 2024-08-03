@@ -38,11 +38,16 @@ I'm a Junior Front-End Developer and I have a Bachelor's degree in Computer Engi
 <h2>🔔 &nbsp; Social</h2>
 
 <p align="left">
-    <a href="https://instagram.com/amir_th110" target="_blank" rel="noreferrer"><img src="https://github.com/Amir-Taheri80/Amir-Taheri80/blob/main/icons8-instagram-50.png?raw=true" width="36" height="36" /></a> 
-    <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Amir-Taheri80/Amir-Taheri80/blob/main/icons8-telegram-100.png?raw=true" width="36" height="36" /></a>
+    <a href="https://instagram.com/amir_th110" target="_blank" rel="noreferrer"><img src="https://github.com/Amir-Taheri80/Amir-Taheri80/blob/main/icons8-instagram-48.png?raw=true" width="36" height="36" /></a> 
+    <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Amir-Taheri80/Amir-Taheri80/blob/main/icons8-telegram-48.png?raw=true" width="36" height="36" /></a>
 </p>
 
 <h2>⚡️ &nbsp; Github Stats</h2>
 
 
- 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir-Taheri80&show_icons=true&theme=radical)
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Taheri80&hide_progress=true)
