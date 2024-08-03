@@ -4,10 +4,11 @@
 <h3>👨‍💻 &nbsp; About Me</h3>
 
 
-I'm a Junior Front-End Developer and I have a Bachelor's degree in Computer Engineering from Khayyam University. I've just started working in this field and have finished learning HTML, CSS, CSS Flexbox, CSS Grid, the Tailwind CSS framework, and WordPress. I'm currently learning JavaScript and planning to learn React afterward.
+I am a graduate software engineer and a junior front-end developer. I have recently started working in this exciting field and have completed learning HTML, CSS, CSS Flexbox, CSS Grid, the Tailwind CSS framework, and WordPress. Currently, I am learning JavaScript and plan to learn React afterward.
 
 
-- 🎓 &nbsp; Bachelor's degree in computer engineering
+
+- 🎓 &nbsp; Bachelor's degree in computer engineering from Khayyam University
 - 🌱 &nbsp; Learning Javascript
 - 🧠 &nbsp; Working on front-end web design
 
