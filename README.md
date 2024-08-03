@@ -38,7 +38,7 @@ I'm a Junior Front-End Developer and I have a Bachelor's degree in Computer Engi
 <h2>🔔 &nbsp; Social</h2>
 
 <p align="left">
-    <a href="https://instagram.com/amir_th110" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a> 
+    <a href="https://instagram.com/amir_th110" target="_blank" rel="noreferrer"><img src="https://github.com/Amir-Taheri80/Amir-Taheri80/blob/main/icons8-instagram-50.png?raw=true" width="36" height="36" /></a> 
     <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Amir-Taheri80/Amir-Taheri80/blob/main/icons8-telegram-100.png?raw=true" width="36" height="36" /></a>
 </p>
 
